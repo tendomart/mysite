@@ -1,6 +1,6 @@
 
 
-Theme Name: Alstar
+Theme Name: Bwongo
 Theme URL: https://bootstrapmade.com/alstar-free-parallax-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Author: tendomart
+Author URL: https://github.com/tendomart/mysite/
